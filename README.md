@@ -9,4 +9,4 @@ Data set has about 500k reviews.
 
 Classification is done by method of SVM and KNN with PCA dimensional reduction.
 
-For comment prediction I used various tools and alogirthms line natural language processing kit, naive bias and inverse document transformation
+For comment prediction I used various tools and alogirthms like natural language processing kit, naive bias and inverse document transformation
